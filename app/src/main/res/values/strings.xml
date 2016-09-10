@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab01c2016</string>
+    <string name="titulo">Calculadora de inversión</string>
+    <string name="email">Correo electrónico</string>
+    <string name="cuit">CUIT</string>
+    <string name="monto_a_invertir">Importe a invertir</string>
+    <string name="dias_seleccionados">0</string>
+    <string name="cant_dias_inversion">Cantidad de días</string>
+    <string name="rendimiento"></string>
+    <string name="renovacion_plazo_boton">HACER PLAZO FIJO</string>
+    <string name="renovacion_plazo_checkbox">Renovar Automáticamente al Vencimiento</string>
+
+</resources>

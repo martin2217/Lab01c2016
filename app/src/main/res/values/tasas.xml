@@ -1,0 +1,9 @@
+
+<resources>
+    <string name="tasa01">0.25</string>
+    <string name="tasa02">0.275</string>
+    <string name="tasa03">0.30</string>
+    <string name="tasa04">0.323</string>
+    <string name="tasa05">0.35</string>
+    <string name="tasa06">0.385</string>
+</resources>
